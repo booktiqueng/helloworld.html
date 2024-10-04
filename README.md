@@ -6,7 +6,7 @@ helloworld.html
     Hello World
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello WOrld</title>
+    <title>Hello World</title>
 </head>
 <body>
     Looking forward to learn web development using Github
