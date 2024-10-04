@@ -6,10 +6,10 @@ helloworld.html
     Hello World
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Hello WOrld</title>
 </head>
 <body>
-    Looking forward to learn web development usimg Github
+    Looking forward to learn web development using Github
     <picture>c:\Users\hp\Downloads\photo-1455849318743-b2233052fcff.avif</picture>
 </body>
 </html>
